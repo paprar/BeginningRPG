@@ -18,4 +18,6 @@
 
 폴더 이름이 한글이면 .git이 생성안됨.
 
-깃허브에서 gitignore - Unity.gitignore 다운받아서 .git 폴더 안에 넣고 앞에 unity 지우기
+깃허브에서 gitignore - Unity.gitignore 다운받아서 .git 폴더 옆에 넣고 앞에 unity 지우기
+
+그러면 용량 크다는 표시 없이 깃허브에 잘 올라가짐. 용량이 큰 라이브러리파일 이런것들 제외하고 올리기 때문. 나머지가 100메가 넘지만 않는다면 괜찮음.
